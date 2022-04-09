@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +22,13 @@ img {
   display: block;
   margin: 0 auto;
   width: 25%;
+}
+
+.error-output {
+  margin-left: 10px;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
 }
 
 .App-header {
