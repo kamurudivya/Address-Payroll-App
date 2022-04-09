@@ -1,19 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
+import logo from './Bl logo.png';
 
 class App extends React.Component {
 
   constructor() {
     super()
     this.state = {
-      title: 'Hello from Bridgelabz'
+      title: 'hello from bridgelabz'
     }
   }
   render() {
     return (
       <div>
         <h1>{this.state.title}</h1>
+        <img src={logo}
+          alt="This Bridgelabz logo: a Bridge to Employment through lab works" />
       </div>
     );
   }
