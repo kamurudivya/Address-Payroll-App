@@ -1,7 +1,7 @@
-import React from "react";
+import React from "react-dom";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import PayrollForm from '../components/payrollform/PayrollForm';
-import NoPage from "../components/payrollform/NoPage";
+import PayrollForm from '../components/payrollForm';
+import NoPage from "../components/NoPage";
 
 function TakeRouter() {
     return (
