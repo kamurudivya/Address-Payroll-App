@@ -1,0 +1,76 @@
+<style>
+
+body {
+    padding: 2em;
+}
+
+.headerContainer {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background: tomato;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.footerContainer {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background: lightgreen;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.mainContainer {
+    display: flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+    text-align: left;
+    background-color: rgb(7, 142, 246);
+}
+
+.mainContainerItem {
+    text-align: left;
+    background: deepskyblue;
+}
+
+article {
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+    text-align: left;
+}
+
+.sideBarLeftItem {
+    background: gold;
+    text-align: center;
+}
+
+.sideBarRightItem {
+    background: hotpink;
+    text-align: center;
+}
+
+.sideBarItem {
+    flex: 1 0 0;
+    border: 0px solid green;
+    align-content: center;
+}
+
+.mainContentItem {
+    flex: 3 0px;
+}
+
+.sideBarLeftItem {
+    order: 1;
+}
+
+.mainContentItem {
+    order: 2;
+}
+
+.sideBarRightItem {
+    order: 3;
+}
+</style>
