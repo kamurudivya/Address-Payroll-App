@@ -1,0 +1,293 @@
+{
+  "users": [
+    {
+      "name": "Divya",
+      "address": "4th Street, Near Dargah, Gandhi Nagar",
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "zipcode": "590010",
+      "phonenumber": "8888888888",
+      "id": 1,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "sanvi",
+      "address": "6th Street, Whitefield",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipcode": "560066",
+      "phonenumber": "9999999999",
+      "id": 2,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "vinay",
+      "address": "Cabo de rama",
+      "city": "Panaji",
+      "state": "Goa",
+      "zipcode": "560000",
+      "phonenumber": "8888888888",
+      "id": 3,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "sanvi",
+      "address": "dtdtfv234",
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "zipcode": "590010",
+      "phonenumber": "9999999788",
+      "id": 4,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 5,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 6,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 7,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 8,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 9,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 10,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 11,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 12,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 13,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 14,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 15,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 16,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "",
+      "address": "Ggwgrg7",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zipcode": "",
+      "phonenumber": "",
+      "id": 17,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    }
+  ]
+}

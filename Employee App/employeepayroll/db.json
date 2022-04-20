@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Divya",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Engineer"
+      ],
+      "gender": "female",
+      "salary": "588888",
+      "day": "16",
+      "month": "Feb",
+      "year": "2020",
+      "startDate": "",
+      "notes": "fewafserdgte",
+      "id": 1,
+      "profilePic": "../../Assets/profile-images/Ellipse -1.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    }
+  ]
+}
